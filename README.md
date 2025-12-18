@@ -56,3 +56,8 @@ Queries were structured to progressively move from data exploration to decision-
 ### Inventory Distribution by Warehouse
 - Inventory is unevenly distributed across warehouses.
 - Warehouse **D** holds the **lowest total inventory** (79,380 units) while storing a similar num
+
+---
+
+### ⬅️ Back to Portfolio  
+🔗 https://github.com/your-username/portfolio
